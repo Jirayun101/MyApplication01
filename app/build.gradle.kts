@@ -5,11 +5,10 @@ plugins {
 }
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion "29.0.2"
 
     namespace = "com.example.myapplication01"
     compileSdk = 29
+
     defaultConfig {
         applicationId = "com.example.myapplication01"
         minSdk = 15
